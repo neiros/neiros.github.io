@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif, 'Franklin Gothic Medium';
+  color: #111111;
+}
+
+body h2 {
+  font-size: 26px;
+}
+
+body .navbar-nav li.nav-item > a.nav-link {
+  color: #318fc9;
+}
+
+body .warning {
+  border-radius: 6px;
+  border: solid 1px #cf0000;
+  font-size: 14px;
+  text-align: justify;
+  padding: 4px;
+  padding-top: 2px;
+  background-color: #fbf0ee;
+}
+
+body .gray {
+  background-color: whitesmoke;
+}
+
+body .txt {
+  border-radius: 6px;
+  border: solid 1px #c8c8c8;
+  padding: 7px;
+  padding-top: 2px;
+  text-align: justify;
+  background-color: #fffffa;
+}
+
+body .af {
+  padding: 1px;
+  border: solid 1px #c8c8c8;
+}
+
+body .scrollup {
+  width: 54px;
+  height: 54px;
+  opacity: 0.3;
+  position: fixed;
+  bottom: 22px;
+  right: 22px;
+  display: none;
+  text-indent: -9999px;
+  background: url("../img/up.png") no-repeat;
+}
+/*# sourceMappingURL=main.css.map */
